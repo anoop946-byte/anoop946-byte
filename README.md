@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Anoop Kumar Gupta
 
 ### 🚀 Full Stack Developer | Problem Solver | Tech Explorer
 
