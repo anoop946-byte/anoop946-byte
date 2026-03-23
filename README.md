@@ -10,8 +10,9 @@
 ## 🧠 About Me
 
 ```yaml
-name: AK G
-education: B.Tech CSE (2022-2026)
+name: Anoop Kumar Gupta
+education: B.Tech CSE (2023-2027)
+
 location: India
 
 current_focus:
@@ -24,4 +25,4 @@ interests:
   - Scalable Systems 🏗️
   - Clean Architecture 🧠
 
-goal: Crack a high-paying tech role (12-20 LPA) 💀
+
